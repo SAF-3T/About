@@ -11,17 +11,8 @@ Esse Github foi feito com o intuito de expor nossa solução, reunir nosso códi
 
 <h2 align="left">Tecnologias/plataformas utilizadas</h2>
 <p align="left">
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_73/122_ansible-icon.c76e065140.svg" alt="ansible" width="40" height="40"/> </a> <!--   -->
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_73/94_amazon-web-services-icon.8cfc0dbbf2.svg" alt="aws" width="40" height="40"/> </a> <!--   -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!--   -->
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <!--   -->
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <!--   -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <!--   -->
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <!--   -->
-<img src="https://symbols.getvecta.com/stencil_25/35_html5.d4d8050235.svg" alt="html" width="40" height="40"/> <!--   -->
-<img src="https://symbols.getvecta.com/stencil_25/14_css3.d930bfb832.svg" alt="css" width="40" height="40"/> <!--   -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_94/22_react-icon.e55e75bd2e.svg" alt="react" width="40" height="40"/> </a> 
-</p>
+<a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a><a><img src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a><a><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a><a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a><a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a><a><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></a> 
+</p><a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a><a>img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/></a><a>img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/></a><a>img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
 
 <h1 align="left">Composição do time</h1>
 <h2 align="left">Gabriel Henrique Machado da Silva </h2>
