@@ -38,8 +38,9 @@ Responsável por
 - Microserviço em Python
 
 <h2 align="left">Gustavo Barros Viaro</h2>
-Github: https://github.com/GuBarros010
-LinkedIn: https://www.linkedin.com/in/gustavo-barros-583989222/
+
+<p>Github: https://github.com/GuBarros010</p>
+<p>LinkedIn: https://www.linkedin.com/in/gustavo-barros-583989222/</p>
 
 Curso: Desenvolvimento de Sistemas
 
@@ -52,8 +53,9 @@ Responsável por
 - Documentação das principais funcionalidades
 
 <h2 align="left">Hugo Vitor</h2>
-Github: https://github.com/HugoSVitor
-LinkedIn: https://www.linkedin.com/in/hugo-vitor-a63062235/
+
+<p>Github: https://github.com/HugoSVitor</p>
+<p>LinkedIn: https://www.linkedin.com/in/hugo-vitor-a63062235/</p>
 
 Curso: Desenvolvimento de Sistemas
 
@@ -65,8 +67,9 @@ Responsável por
 - Aplicação Mobile
 
 <h2 align="left">Leonardo Vitor Ferreira da Silva</h2>
-Github: https://github.com/hakstol
-LinkedIn: https://www.linkedin.com/in/leonardo-vitor-1476a31a2/
+
+<p>Github: https://github.com/hakstol</p>
+<p>LinkedIn: https://www.linkedin.com/in/leonardo-vitor-1476a31a2/</p>
 
 Curso: Desenvolvimento de Sistemas
 
@@ -80,8 +83,9 @@ Responsável por
 - Microserviço de comparação de imagens.
 
 <h2 align="left">Vitor Luiz de Carvalho</h2>
-Github: https://github.com/Vitor3101
-LinkedIn: https://www.linkedin.com/in/vitor-luiz-324073235/
+
+<p>Github: https://github.com/Vitor3101</p>
+<p>LinkedIn: https://www.linkedin.com/in/vitor-luiz-324073235/</p>
 
 Curso: Desenvolvimento de Sistemas
 
