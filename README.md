@@ -25,8 +25,9 @@ Esse Github foi feito com o intuito de expor nossa solução, reunir nosso códi
 
 <h1 align="left">Composição do time</h1>
 <h2 align="left">Gabriel Henrique Machado da Silva </h2>
-Github: https://github.com/biel-h/
-LinkedIn: https://www.linkedin.com/in/gabriel-henrique-machado-da-silva/
+
+<p>Github: https://github.com/biel-h/</p>
+<p>LinkedIn: https://www.linkedin.com/in/gabriel-henrique-machado-da-silva/</p>
 
 Curso: Rede de Computadores
 
